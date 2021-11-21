@@ -50,7 +50,7 @@ int main(){
             cout<<"Tipe Rangking : Humpback"<<endl; 
          }
          
-         getch();
+         
          
        return 0;    
      }
