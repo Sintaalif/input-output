@@ -2,9 +2,7 @@
 using namespace std;
 int main(){
 	
-	/*Nama : Sinta Nurhalifah
-	Npm : 2117051015
-	Kelas : B*/
+	
 	
 	//KALKULATOR KONVERENSI MATA UANG RUPIAH KE ASET DIGITAL BITCOIN//
 	
