@@ -3,12 +3,15 @@
 #include <stdio.h>
 using namespace std;
 
+
 int main(){
 initscr();
 
+	
 mvprintw(1,5,"Sedang Loading..\n");
 printw("\n");
 
+	
 for(int a=1;a<30;a++){
 				printw("|");
 				refresh();
