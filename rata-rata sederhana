@@ -3,7 +3,6 @@
 
 
 main{
-
     float angka, total = 0, rata;
     int jumlah;
 
