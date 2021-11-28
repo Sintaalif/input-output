@@ -1,11 +1,9 @@
 #include <iostream>
-
 using namespace std;
 int main(){
 	
 /*SINTA NURHALIFAH
 2117051015
-B*/
        
         int gaji_karyawan,gaji_umr;
         
