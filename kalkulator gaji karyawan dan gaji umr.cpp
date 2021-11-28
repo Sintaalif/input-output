@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 	
 /*SINTA NURHALIFAH
-2117051015
+
        
         int gaji_karyawan,gaji_umr;
         
