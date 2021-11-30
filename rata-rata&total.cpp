@@ -7,7 +7,6 @@ int main(){
 	int array[0], i,n;
   float rata, total=0;
     
-    
   printf("");
   scanf("%d",&n);    
     
