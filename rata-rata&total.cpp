@@ -1,7 +1,9 @@
 #include <iostream>
+
 using namespace std;
 
 int main(){
+	
 	int array[0], i,n;
   float rata, total=0;
     
