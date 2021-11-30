@@ -15,7 +15,6 @@ int main(){
     printf("",i+1);
     scanf("%d", &array[i]);
     total = total + array[i];
-
   }
     
   rata = total/n;
