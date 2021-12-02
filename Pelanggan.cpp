@@ -3,8 +3,7 @@
 using namespace std;
 int main(){
 	/* Nama  : Sinta Nurhalifah
-   	NPM      : 2117051015
-	Kelas    : B 2021 */
+   	NPM      : 2117051015elas 
 	
 	//string//
 	string Nama;
