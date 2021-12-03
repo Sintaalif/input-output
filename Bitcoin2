@@ -10,6 +10,7 @@ int main(){
     	
     	
         if(btc <1){
+	
             cout<<"----------------1----------------"<<endl;
             cout<<"Tipe Ranking : Shrimp"<<endl;
          }
