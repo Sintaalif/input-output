@@ -1,6 +1,5 @@
 #include <iostream.h>
 #include <conio.h>
-
 main{
     float angka, total = 0, rata;
     int jumlah;
