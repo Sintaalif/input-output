@@ -24,4 +24,5 @@ int main()
     cout<<"Nilai Total = "<<jum<<endl;
     cout<<"Nilai Rata-rata = "<<rata<<endl;
   getch();
+  
   }
