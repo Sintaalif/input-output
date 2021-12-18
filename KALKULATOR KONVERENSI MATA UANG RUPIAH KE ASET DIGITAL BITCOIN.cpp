@@ -3,7 +3,6 @@ using namespace std;
 
 int main(){
 	
-	
 	//KALKULATOR KONVERENSI MATA UANG RUPIAH KE ASET DIGITAL BITCOIN//
 	
 	//string//
