@@ -1,4 +1,5 @@
 #include <ncurses/ncurses.h>
+
 #include <windows.h>
 #include <stdio.h>
 using namespace std;
