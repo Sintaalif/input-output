@@ -7,7 +7,7 @@ int main(){
 /*SINTA NURHALIFAH
 2117051015
 B*/
-      
+     
         double btc,shrimp,crab,octopus,fish,dolphin,shark,whale,humpback;
         
         cout<<"MASUKAN JUMLAH BITCOIN : ";cin>>btc;
