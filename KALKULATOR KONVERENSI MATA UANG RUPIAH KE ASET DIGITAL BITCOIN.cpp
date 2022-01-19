@@ -20,7 +20,6 @@ int main(){
 	cin>> JumlahUang ;
 	cin>> HargaBitCoin ;
 	
-	
 	//output//
 	cout<< endl ;
 	cout<< "Tanggal Transaksi : "<< TanggalTransaksi << " " << BulanTransaksi << " " << TahunTransaksi << endl ;
