@@ -3,7 +3,7 @@
 using namespace std;
     int data[10], data2[10];
     int n;
-    
+   
 int tukar (int a,int b){
     int t;
     t=data[b];
