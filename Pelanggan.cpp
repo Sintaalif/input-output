@@ -22,7 +22,7 @@ int main(){
 	
 	
 	
-	//output//
+	
 	cout<<endl;
 	cout<<"Nama Pelanggan "<<Nama <<endl;
 	cout<<"Alamat Rumah "<<Alamat <<endl;
