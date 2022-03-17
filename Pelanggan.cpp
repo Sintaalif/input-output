@@ -4,7 +4,6 @@ int main(){
 	
    
 	
-	//string//
 	string Nama;
 	string Alamat;
 	string Email;
