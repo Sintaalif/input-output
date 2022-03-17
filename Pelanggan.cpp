@@ -10,7 +10,7 @@ int main(){
 	string Email;
 	string Nomor;
 	
-	//input//
+	
 	cout<<"Nama Pelanggan  : ";
 	getline(cin,Nama);
 	cout<<"Alamat Rumah    : ";
