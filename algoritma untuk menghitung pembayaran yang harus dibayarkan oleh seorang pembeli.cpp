@@ -15,6 +15,13 @@ int main ()
  cout<<"uang yang dibayar :"; 
  cin>>uang; 
  kembali=uang-total_harga; 
- cout<<"kembalian :"<<kembali<<endl; 
+ cout<<"kembalian :"<<kembali<<endl;
+ cout << endl; 
+ cout << "nama barang " << nama_barang << endl;
+ cout << "jumlah barang " << jumlah_barang << endl;
+ cout << "harga barang " << harga << endl;
+ cout << "total harga " << total_harga << endl;
+ cout << "uang yang dibayar " << uang << endl;
+ cout << "kembalian " << kembali;
  return 0; 
 }
