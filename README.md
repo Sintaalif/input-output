@@ -1,1 +1,1 @@
-input dan output dalam bahasa pemograman C++
+Repository ini berisi tentang source code selama kuliah yagesya :)
