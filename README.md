@@ -1,1 +1,1 @@
-Repository ini berisi tentang source code selama kuliah yagesya :)
+Repositori ini berisi tentang kodingan selama kuliah yagesya :)
