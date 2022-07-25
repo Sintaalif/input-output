@@ -1,1 +1,1 @@
-Repositori ini berisi tentang kodingan selama kuliah yagesya :)
+Repositori ini berisi tentang kodingan selama kuliah 
