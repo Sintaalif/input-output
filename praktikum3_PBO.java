@@ -39,6 +39,9 @@ public class Praktikum3_Sinta {
         int nilai = input.nextInt();
         char huruf_mutu;
         
+        if(nilai%10)==0){
+            continue;
+        }
         if(nilai >=100){
             System.out.println("input tidak sesuai");
         }else if (nilai >= 76){
@@ -54,24 +57,7 @@ public class Praktikum3_Sinta {
             huruf_mutu ='D';
             System.out.println(huruf_mutu);
         }
-        if(nilai %10){
-            continue;
-        }if else (nilai >= 100){
-            System.out.println("input tidak sesuai");
-        }else if (nilai >= 76){
-            huruf_mutu ='A';
-            System.out.println(huruf_mutu);
-        }else if(nilai >= 71){
-            huruf_mutu = 'B';
-             System.out.println(huruf_mutu);
-        }else if(nilai >= 66){
-            huruf_mutu = 'C';
-            System.out.println(huruf_mutu);
-        }else{
-            huruf_mutu ='D';
-            System.out.println(huruf_mutu);
-        }
-        
+
         //switch case
 //        switch(huruf_mutu){
 //            case 'A':
