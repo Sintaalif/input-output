@@ -1,7 +1,6 @@
 #include <iostream>
 
 using namespace std;
-
 int main(){
 	
         double btc,shrimp,crab,octopus,fish,dolphin,shark,whale,humpback;
